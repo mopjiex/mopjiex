@@ -10,6 +10,7 @@
 4. [Momentum](https://mopjiex.github.io/momentum/)
 5. [CSS-Bayan](https://mopjiex.github.io/CSS-Bayan/CSSBayan/)
 6. [Plants](https://mopjiex.github.io/Plants/)
+7. [15 puzzle](https://mopjiex.github.io/codeJam/)
 <!--
 **mopjiex/mopjiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
