@@ -1,7 +1,7 @@
 # Hi, I'm Artem! 👋
 
 # Languages and Tools
-![JavaScript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
 <!--
 **mopjiex/mopjiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
