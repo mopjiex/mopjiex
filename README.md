@@ -2,7 +2,7 @@
 
 # Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="200" heigth="200"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" heigth="100"/>
           
 <!--
 **mopjiex/mopjiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
