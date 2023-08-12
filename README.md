@@ -12,6 +12,7 @@
 6. [CSS-Bayan](https://mopjiex.github.io/CSS-Bayan/CSSBayan/)
 7. [Plants](https://mopjiex.github.io/Plants/)
 8. [15 puzzle](https://mopjiex.github.io/codeJam/)
+9. [FilterArt-Hub](https://mopjiex.github.io/FilterArt-Hub/)
 <!--
 **mopjiex/mopjiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
