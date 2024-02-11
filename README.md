@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mopjiex&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mopjiex&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mopjiex&theme=default&utcOffset=8)
+
